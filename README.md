@@ -18,7 +18,6 @@
 
 <br/><br/>
 
-<!-- Profile views counter -->
 <img src="https://komarev.com/ghpvc/?username=RohitSaonerkar&label=Profile+Views&color=534AB7&style=flat-square" alt="profile views" />
 
 </div>
@@ -73,12 +72,44 @@ Currently at **Blinc Innovations Ltd**, where I build and maintain production so
 
 ## 🚀 Featured Projects
 
-| Project | Tech Stack | Description |
-|---|---|---|
-| 🏦 **Bank Management System** | Java · MySQL · OOP · JDBC | Full-featured banking desktop app with accounts, transfers & loan management on a normalized MySQL schema |
-| 🛒 **Online Shopping Portal** | React.js · HTML5 · CSS3 · REST API | Responsive e-commerce SPA with product filtering, cart state & mobile-first layout, code-split for performance |
-| 🚗 **BMW Sales Analytics Dashboard** | Power BI · DAX · Data Viz | Executive KPI dashboard replacing manual monthly reporting with real-time self-service analytics |
-| 📊 **Retail Sales Analysis Dashboard** | Excel · Pivot Tables · Data Analysis | Multi-tab dashboard identifying top product categories & revenue trends to support purchasing decisions |
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1a2e&height=90&text=🏦%20Bank%20Management%20System&fontSize=24&fontColor=ffffff&fontAlignY=40&desc=Java%20·%20MySQL%20·%20OOP%20·%20JDBC&descAlignY=65&descSize=13&descColor=aaaaaa&stroke=ED8B00&strokeWidth=2" />
+
+> Full-featured banking desktop app — account creation, deposits, withdrawals, fund transfers & loan management on a normalized MySQL schema.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d2137&height=90&text=🛒%20Online%20Shopping%20Portal&fontSize=24&fontColor=ffffff&fontAlignY=40&desc=React.js%20·%20HTML5%20·%20CSS3%20·%20REST%20API&descAlignY=65&descSize=13&descColor=aaaaaa&stroke=61DAFB&strokeWidth=2" />
+
+> Responsive e-commerce SPA with product filtering, cart state management & mobile-first layout. Optimized via component-level code splitting.
+
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1400&height=90&text=🚗%20BMW%20Sales%20Analytics%20Dashboard&fontSize=24&fontColor=ffffff&fontAlignY=40&desc=Power%20BI%20·%20DAX%20·%20Data%20Visualization&descAlignY=65&descSize=13&descColor=aaaaaa&stroke=F2C811&strokeWidth=2" />
+
+> Executive KPI dashboard tracking revenue, profit margin & regional performance — replaced manual monthly reports with real-time self-service analytics.
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1f0d&height=90&text=📊%20Retail%20Sales%20Analysis%20Dashboard&fontSize=24&fontColor=ffffff&fontAlignY=40&desc=Excel%20·%20Pivot%20Tables%20·%20Data%20Analysis&descAlignY=65&descSize=13&descColor=aaaaaa&stroke=217346&strokeWidth=2" />
+
+> Multi-tab Excel dashboard analyzing sales across multiple months — identified top product categories & revenue trends to support purchasing decisions.
+
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Analysis-217346?style=flat-square&logo=databricks&logoColor=white"/>
 
 ---
 
