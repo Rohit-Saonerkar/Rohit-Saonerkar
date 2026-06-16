@@ -1,25 +1,27 @@
-import { useState } from "react";
+<div align="center">
 
-const readme = `<h1 align="center">Hi, I'm Rohit Saonerkar 👋</h1>
+<!-- ═══════════════════════  HEADER BANNER  ═══════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1a2e,100:16213e&height=180&text=Rohit%20Saonerkar&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Software%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20React.js&descAlignY=68&descSize=15&animation=fadeIn&stroke=534AB7&strokeWidth=2" />
 
-<p align="center">
-  <b>Full-Stack Software Developer · Java · Python · React.js · SQL · Power BI</b><br/>
-  📍 Nagpur, India &nbsp;|&nbsp;
-  ✉️ <a href="mailto:rsaonerk@gmail.com">rsaonerk@gmail.com</a> &nbsp;|&nbsp;
-  🔗 <a href="https://linkedin.com/in/rohit-saonerkar">LinkedIn</a> &nbsp;|&nbsp;
-  🐙 <a href="https://github.com/RohitSaonerkar">GitHub</a>
-</p>
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=620&lines=Java+%7C+Python+%7C+React.js+Developer;Building+Scalable+Full-Stack+Apps;Power+BI+%26+Data+Analytics+Enthusiast;Open+to+Software+Developer+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-</p>
+<br/>
+
+<!-- Social / contact badges -->
+<a href="mailto:rsaonerk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/rohit-saonerkar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/RohitSaonerkar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/📍%20Nagpur%2C%20India-534AB7?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
+
+<!-- Profile views counter -->
+<img src="https://komarev.com/ghpvc/?username=RohitSaonerkar&label=Profile+Views&color=534AB7&style=flat-square" alt="profile views" />
+
+</div>
 
 ---
 
@@ -33,56 +35,61 @@ Currently at **Blinc Innovations Ltd**, where I build and maintain production so
 
 ## 🛠️ Technical Skills
 
-| Category | Technologies |
-|---|---|
-| **Languages** | Java, Python, C, C++ |
-| **Web & APIs** | React.js, HTML5, CSS3, REST APIs, JSON, JDBC |
-| **Frameworks** | Spring Boot, Hibernate, Maven |
-| **Databases** | MySQL, SQL (Joins, Stored Procedures, Indexing, Query Optimization) |
-| **Data & BI** | Power BI (DAX, Slicers, KPIs, Drill-through), Excel (Pivot Tables, VLOOKUP) |
-| **Tools & DevOps** | Git, GitHub, Docker, CI/CD, Postman, IntelliJ IDEA, VS Code, MySQL Workbench |
-| **Concepts** | OOP, MVC, Agile/Scrum, SDLC, Unit Testing, Data Structures, REST Architecture |
+<div align="center">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+**Web & Frameworks**
+
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+**Databases & BI**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+**Tools & DevOps**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏦 Bank Management System
-> Java · MySQL · OOP · JDBC
-
-Full-featured desktop banking application supporting account creation, deposits, withdrawals, fund transfers, and loan management. Built with a normalized MySQL schema for efficient data storage and retrieval.
-
----
-
-### 🛒 Online Shopping Portal
-> React.js · HTML5 · CSS3 · REST API
-
-Responsive e-commerce SPA with product filtering, cart state management, and a mobile-first layout. Performance optimized through component-level code splitting.
-
----
-
-### 🚗 BMW Sales Analytics Dashboard
-> Power BI · DAX · Data Visualization
-
-Executive dashboard tracking KPIs including revenue, profit margin, and regional performance. Replaced a manual monthly reporting process with a real-time self-service analytics solution.
-
----
-
-### 📊 Retail Sales Analysis Dashboard
-> Excel · Pivot Tables · Data Analysis
-
-Multi-tab Excel dashboard analyzing sales data across multiple months. Identified top-performing product categories and revenue trends to support business purchasing decisions.
+| Project | Tech Stack | Description |
+|---|---|---|
+| 🏦 **Bank Management System** | Java · MySQL · OOP · JDBC | Full-featured banking desktop app with accounts, transfers & loan management on a normalized MySQL schema |
+| 🛒 **Online Shopping Portal** | React.js · HTML5 · CSS3 · REST API | Responsive e-commerce SPA with product filtering, cart state & mobile-first layout, code-split for performance |
+| 🚗 **BMW Sales Analytics Dashboard** | Power BI · DAX · Data Viz | Executive KPI dashboard replacing manual monthly reporting with real-time self-service analytics |
+| 📊 **Retail Sales Analysis Dashboard** | Excel · Pivot Tables · Data Analysis | Multi-tab dashboard identifying top product categories & revenue trends to support purchasing decisions |
 
 ---
 
 ## 💼 Work Experience
 
-**Software Engineer** — Blinc Innovations Ltd, Nagpur *(Jun 2023 – Present)*
+**🏢 Software Engineer** — Blinc Innovations Ltd, Nagpur *(Jun 2023 – Present)*
 - Developed and maintained software modules across the full SDLC, reducing post-release bug reports through systematic unit testing and code reviews
 - Collaborated with cross-functional teams to translate business requirements into technical specifications and actionable deliverables
 - Built internal tooling improvements that significantly reduced repetitive manual tasks for the operations team
 
-**Python Developer** — IBase Electrosoft LLP, Nagpur *(Jan 2023 – May 2023)*
+**🐍 Python Developer** — IBase Electrosoft LLP, Nagpur *(Jan 2023 – May 2023)*
 - Built and maintained Python-based internal tools automating data-processing workflows and reducing manual data entry time
 - Wrote unit tests and technical documentation, improving developer onboarding time and code maintainability
 
@@ -90,74 +97,50 @@ Multi-tab Excel dashboard analyzing sales data across multiple months. Identifie
 
 ## 🎓 Education
 
-**B.E. — Computer Technology** · Nagpur University, Maharashtra *(2020 – 2024)*  
-CGPA: 7.85 / 10
+🎓 **B.E. — Computer Technology** · Nagpur University, Maharashtra *(2020 – 2024)* · CGPA: **7.85 / 10**
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 IBM: Java Fundamentals
-- 🏅 IBM: SQL and Relational Databases
-- 🏅 IBM: Web Development Using HTML
-- 🏅 Master in Full-Stack Development using Java *(hands-on training program)*
-- 🏅 Data Science and Analytics using AI *(hands-on training program)*
+| Badge | Certification |
+|---|---|
+| 🏅 | IBM: Java Fundamentals |
+| 🏅 | IBM: SQL and Relational Databases |
+| 🏅 | IBM: Web Development Using HTML |
+| 🏅 | Master in Full-Stack Development using Java *(hands-on training program)* |
+| 🏅 | Data Science and Analytics using AI *(hands-on training program)* |
 
 ---
 
-<p align="center">
-  <i>Open to Software Developer and Backend Developer roles. Let's connect!</i>
-</p>`;
+## 📊 GitHub Stats
 
-export default function App() {
-  const [copied, setCopied] = useState(false);
+<div align="center">
 
-  const handleCopy = () => {
-    navigator.clipboard.writeText(readme).then(() => {
-      setCopied(true);
-      setTimeout(() => setCopied(false), 2500);
-    });
-  };
+<img src="https://github-readme-stats.vercel.app/api?username=RohitSaonerkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSaonerkar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-  return (
-    <div style={{ padding: "1rem 0" }}>
-      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "10px" }}>
-        <span style={{ fontSize: "14px", fontWeight: 500, color: "var(--color-text-primary)" }}>
-          GitHub Profile README.md
-        </span>
-        <button
-          onClick={handleCopy}
-          style={{
-            display: "inline-flex", alignItems: "center", gap: "6px",
-            padding: "7px 16px", borderRadius: "var(--border-radius-md)",
-            fontSize: "13px", cursor: "pointer", fontWeight: 500,
-            background: copied ? "var(--color-background-success)" : "var(--color-background-primary)",
-            color: copied ? "var(--color-text-success)" : "var(--color-text-primary)",
-            border: copied ? "0.5px solid var(--color-border-success)" : "0.5px solid var(--color-border-secondary)",
-            transition: "all 0.2s"
-          }}
-        >
-          {copied ? "✓ Copied!" : "⎘ Copy all"}
-        </button>
-      </div>
-      <textarea
-        readOnly
-        value={readme}
-        onClick={e => e.target.select()}
-        style={{
-          width: "100%", height: "420px", resize: "vertical",
-          fontFamily: "var(--font-mono)", fontSize: "12px",
-          lineHeight: "1.6", padding: "14px",
-          background: "var(--color-background-secondary)",
-          color: "var(--color-text-primary)",
-          border: "0.5px solid var(--color-border-tertiary)",
-          borderRadius: "var(--border-radius-md)",
-          outline: "none"
-        }}
-      />
-      <p style={{ fontSize: "12px", color: "var(--color-text-secondary)", marginTop: "8px" }}>
-        Click inside the text area to select all, or use the "Copy all" button above.
-      </p>
-    </div>
-  );
-}
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitSaonerkar&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════  FOOTER BANNER  ═══════════════════════ -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/><br/>
+
+<a href="mailto:rsaonerk@gmail.com"><img src="https://img.shields.io/badge/Drop%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/rohit-saonerkar"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,50:1a1a2e,100:0d1117&height=100&text=Open%20to%20Software%20Developer%20%26%20Backend%20Roles%20%E2%80%94%20Let%27s%20Connect!&fontSize=16&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=1D9E75&strokeWidth=2" />
+
+</div>
